@@ -7,7 +7,7 @@ Linkedin : https://www.linkedin.com/in/jasandovalb/
 Este script permite automatizar la descarga de datos del portal DHIME del IDEAM
 
 Version 0:  Se define la función DHIME_Download que permite automatizar la descarga de datos
-            del portal DHIME del IDEAM. Los paremetros a pasar a la función son:
+            del portal DHIME del IDEAM. Los parámetros a pasar a la función son:
 
             1_Path: Dirección de la carpeta en donde se van a guardar el archivo csv             
             
